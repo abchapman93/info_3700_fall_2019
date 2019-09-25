@@ -6,3 +6,6 @@ This is the code repository for Utah Valley University Info 3700,
 
 - **Instructor**: Alec Chapman
 - **Contact Info**: alec.chapman@uvu.edu
+
+You can install all of the necessary libraries using `requirements.txt`:
+`pip install -r requirements.txt`
