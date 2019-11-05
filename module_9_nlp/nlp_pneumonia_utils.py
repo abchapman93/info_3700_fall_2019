@@ -5,8 +5,8 @@ import sklearn.metrics
 import pandas as pd
 import pyConTextNLP
 from pyConTextNLP import pyConTextGraph
-from radnlp.data import classrslts
-import radnlp.view as rview
+# from radnlp.data import classrslts
+# import radnlp.view as rview
 from IPython.display import display, HTML, Image
 from pyConTextNLP import itemData
 from nltk import word_tokenize, sent_tokenize

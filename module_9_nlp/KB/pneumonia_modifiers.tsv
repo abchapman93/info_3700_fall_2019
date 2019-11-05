@@ -357,7 +357,7 @@ exhibit	PROBABLE_EXISTENCE		bidirectional
 gross evidence	DEFINITE_EXISTENCE		forward				
 high probability	DEFINITE_EXISTENCE		bidirectional				
 highly hesitant	AMBIVALENT_EXISTENCE		bidirectional				
-indication	AMBIVALENT_EXISTENCE		bidirectional				
+indication	INDICATION		bidirectional				
 insufficient to rule (the patient|him|her) out for	AMBIVALENT_EXISTENCE		forward				
 is positive	DEFINITE_EXISTENCE		bidirectional				
 no other (CT|radiographic|sonographic|MR|etc) evidence	PROBABLE_NEGATED_EXISTENCE		forward				
